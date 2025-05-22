@@ -29,11 +29,6 @@
 - **Database**: MySQL
 
 ---
-
-## 🖼️ Screenshots
-
-> Add your images in a `screenshots/` folder and replace the file names below.
-
 ### 🔐 Student Login
 ![Login](screenshots/Student_Login.png)
 
